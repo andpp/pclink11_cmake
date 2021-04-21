@@ -1,0 +1,9 @@
+**/*.lst
+**/*.obj
+*.o
+.vscode
+CMakeCache.txt
+CMakeFiles
+CMakeLists.txt.user
+cmake_install.cmake
+Makefile
